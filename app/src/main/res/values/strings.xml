@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MySmartTabLayout</string>
+    <string-array name="news_titles">
+        <item>国内</item>
+        <item>国际</item>
+        <item>热点</item>
+        <item>体育</item>
+        <item>本地</item>
+        <item>网易号</item>
+        <item>财经</item>
+        <item>科技</item>
+        <item>汽车</item>
+    </string-array>
+</resources>
